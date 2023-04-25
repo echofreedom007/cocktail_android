@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">安卓期末项目</string>
-    <string name="sophie_header">我的收藏_李闯_Mar29</string>
-    <string name="echo_header">主页_张博凌_Mar29</string>
-    <string name="mayank_header">搜索页面_Mayank_Mar29</string>
-    <string name="grace_header">鸡尾酒介绍_Grace_Mar29</string>
+    <string name="app_name">鸡尾酒小站</string>
+    <string name="sophie_header">我的收藏</string>
+    <string name="echo_header">主页</string>
+    <string name="mayank_header">搜索页面</string>
+    <string name="grace_header">鸡尾酒介绍</string>
     
     <string name="search_button">搜索</string>
     <string name="favourites_button">我的收藏</string>

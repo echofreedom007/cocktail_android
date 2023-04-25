@@ -1,10 +1,10 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
 
-    <string name="app_name">Android_Final_Project</string>
-    <string name="sophie_header">Search_Chuang_Mar29</string>
-    <string name="echo_header">Home_Boling_Mar29</string>
-    <string name="mayank_header">MyFavorites_Mayank_Mar29</string>
-    <string name="grace_header">CocktailDescription_Grace_Mar29</string>
+    <string name="app_name">Cocktail Hub</string>
+    <string name="sophie_header">Search</string>
+    <string name="echo_header">Home</string>
+    <string name="mayank_header">My Favorites</string>
+    <string name="grace_header">Cocktail Description</string>
 
 
     <string name="search_button">Search</string>
