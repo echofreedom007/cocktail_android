@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FavoritesActivity"
+    android:id="@+id/fragment_Favourites">
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="224dp"
+        android:layout_height="60dp"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="150dp"
+        android:layout_marginEnd="50dp"
+        android:layout_marginBottom="15dp"
+        android:text="@string/FavProfile"
+        android:textColor="#5018B3"
+        android:textSize="34sp"
+        android:textStyle="normal"
+        app:layout_constraintBottom_toTopOf="@+id/imageButton3"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageButton
+        android:id="@+id/imageButton3"
+        android:layout_width="250dp"
+        android:layout_height="200dp"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="7dp"
+        android:layout_marginEnd="50dp"
+        android:layout_marginBottom="7dp"
+        android:src="@drawable/leo"
+        app:layout_constraintBottom_toTopOf="@+id/entered_fName"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView4"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <TextView
+        android:id="@+id/entered_fName"
+        android:layout_width="243dp"
+        android:layout_height="28dp"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="4dp"
+        android:layout_marginEnd="50dp"
+        android:layout_marginBottom="4dp"
+        android:text="@string/fName_entered"
+        app:layout_constraintBottom_toTopOf="@+id/entered_lName"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageButton3" />
+
+    <TextView
+        android:id="@+id/entered_lName"
+        android:layout_width="243dp"
+        android:layout_height="28dp"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="4dp"
+        android:layout_marginEnd="50dp"
+        android:layout_marginBottom="4dp"
+        android:text="@string/lName_entered"
+        app:layout_constraintBottom_toTopOf="@+id/entered_eMail"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/entered_fName" />
+
+    <TextView
+        android:id="@+id/entered_eMail"
+        android:layout_width="243dp"
+        android:layout_height="28dp"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="4dp"
+        android:layout_marginEnd="50dp"
+        android:layout_marginBottom="200dp"
+        android:text="@string/email_entered"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/entered_lName" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

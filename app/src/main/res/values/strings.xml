@@ -1,0 +1,88 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="app_name">Android_Final_Project</string>
+    <string name="sophie_header">Search_Chuang_Mar29</string>
+    <string name="echo_header">Home_Boling_Mar29</string>
+    <string name="mayank_header">MyFavorites_Mayank_Mar29</string>
+    <string name="grace_header">CocktailDescription_Grace_Mar29</string>
+
+
+    <string name="search_button">Search</string>
+    <string name="favourites_button">My Favourites</string>
+    <string name="contact_button">Contact Us</string>
+    <string name="search_button_toast_message">You\'ll be directed to the Search page...</string>
+    <string name="favourite_button_toast_message">You\'ll be directed to the My Faviourite page...</string>
+
+
+    <string name="snackbarText">Would you like to leave a message to us?</string>
+    <string name="snackbarActionText">Yes</string>
+    <string name="home_help_button">Help</string>
+
+    <string name="help_menu_action">Close</string>
+
+
+    <string name="drawer_home">Home</string>
+    <string name="drawer_search">Search</string>
+    <string name="drawer_favourites">Favourites</string>
+
+    <string name="homeSnackbarText">Want leave a message to us?</string>
+
+
+
+    <string name="contact_name">Name:</string>
+    <string name="contact_email">Email:</string>
+    <string name="contact_message">Message:</string>
+    <string name="contact_submit_button">Submit</string>
+
+    <string name="sophie_alert">On the search page, you could type in the drink you are looking for and hit
+    the search button to see the results. The top four most related results will show below.</string>
+    <string name="echo_alert">On the home page, you could click on search button to go to the search page or on favourites button to go to the MyFavourites page. You could also leave your email to us by clicking
+    on the contact us button</string>
+
+    <string name="mayank_alert">On the favourites page, you could see the drinks you saved.</string>
+    <string name="sophie_toast">Wait while we load the results for you</string>
+    <string name="sophie">what</string>
+
+    <string name="save_to_favorites_sophie">save to favorites</string>
+
+    <string name="login">Login Below</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="login_name">Login</string>
+    <string name="enter_your_first_name">Enter your First Name</string>
+    <string name="enter_your_last_name">Enter your Last Name</string>
+    <string name="enter_your_email_address">Enter your email address</string>
+    <string name="set_a_password">Set a Password</string>
+    <string name="register">Register</string>
+    <string name="fName_entered">User First Name</string>
+    <string name="lName_entered">User Last Name</string>
+    <string name="email_entered">User Email Address</string>
+    <string name="pass_entered">Secret Password</string>
+    <string name="userProfile">User Profile</string>
+    <string name="pass_msg">Password must be 4-20 characters and contain uppercase, lowercase, number, and symbol.</string>
+    <string name="password_requirements_met">Your password meets the requirements</string>
+    <string name="password_requirements_not_met">You shall not pass!</string>
+    <string name="password_length_invalid">Your password does not have a length between 4 and 20 characters</string>
+    <string name="password_uppercase_missing">Your password does not have an upper case letter</string>
+    <string name="password_lowercase_missing">Your password does not have a lower case letter</string>
+    <string name="password_number_missing">Your password does not have a number</string>
+    <string name="password_specialchar_missing">Your password does not have a special symbol (#$%^&amp;*!@?)</string>
+    <string name="favouriteSnackbar1">Take me to my Favourites Page</string>
+    <string name="favouriteSnackbar2">Lets go</string>
+
+    <string name="FavProfile">My Favourite</string>
+
+
+
+
+    <string name="add_to_favourites_button">Add to favourites</string>
+    <string name="rmv_from_favourites">Remove from favourites</string>
+    <string name="grace_alert">On description page, you could see the details of the drink you searched.You can also save or delete this drink from MyFavourites</string>
+
+    <string name="my_Fav">My Favourites</string>
+    <string name="my_clear">Clear</string>
+
+    <string name="search_hint">Type a word</string>
+
+</resources>
+

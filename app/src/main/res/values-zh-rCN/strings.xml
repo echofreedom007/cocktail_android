@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">安卓期末项目</string>
+    <string name="sophie_header">我的收藏_李闯_Mar29</string>
+    <string name="echo_header">主页_张博凌_Mar29</string>
+    <string name="mayank_header">搜索页面_Mayank_Mar29</string>
+    <string name="grace_header">鸡尾酒介绍_Grace_Mar29</string>
+    
+    <string name="search_button">搜索</string>
+    <string name="favourites_button">我的收藏</string>
+    <string name="contact_button">联系我们</string>
+    <string name="search_button_toast_message">正在加载搜索页...</string>
+    <string name="favourite_button_toast_message">正在加载我的收藏页...</string>
+    <string name="snackbarText">想要让我们联系你？</string>
+    <string name="snackbarActionText">是的</string>
+    <string name="homeSnackbarText">想要让我们联系你？</string>
+
+
+    <string name="home_help_button">帮助</string>
+
+
+    <string name="drawer_home">家</string>
+    <string name="drawer_search">搜索</string>
+    <string name="drawer_favourites">收藏夹</string>
+
+    <string name="help_menu_action">关闭</string>
+
+    <string name="contact_name">姓名：</string>
+    <string name="contact_email">邮箱：</string>
+    <string name="contact_message">信息：</string>
+    <string name="contact_submit_button">提交</string>
+
+
+
+    <string name="sophie_alert">你可以在这里搜索你想要的饮品，在下方您可以看到与您的搜索最相关的4个饮品</string>
+    <string name="echo_alert">在主页面，您可以通过点击搜索去到搜索页面，或者点击我的收藏去收藏页面。您也可以点击联系我们给我们留下您的邮箱</string>
+
+    <string name="mayank_alert">在收藏页面，您可以看到您收藏的饮品。</string>
+    <string name="sophie_toast">请耐心等待</string>
+    <string name="sophie">什么</string>
+
+    <string name="save_to_favorites_sophie">放入收藏夹</string>
+
+    <string name="login">登录</string>
+    <string name="enter_your_email">输入您的电子邮件</string>
+    <string name="enter_your_password">输入您的密码</string>
+    <string name="login_name">登录</string>
+    <string name="enter_your_first_name">输入您的名字</string>
+    <string name="enter_your_last_name">输入您的姓氏</string>
+    <string name="enter_your_email_address">输入您的电子邮件地址</string>
+    <string name="set_a_password">设置密码</string>
+    <string name="register">注册</string>
+    <string name="fName_entered">用户名字</string>
+    <string name="lName_entered">用户姓氏</string>
+    <string name="email_entered">用户电子邮件地址</string>
+    <string name="pass_entered">秘密密码</string>
+    <string name="userProfile">用户资料</string>
+    <string name="pass_msg">传递消息</string>
+    <string name="password_requirements_met">您的密码符合要求</string>
+    <string name="password_requirements_not_met">你不许过去！</string>
+    <string name="password_length_invalid">您的密码长度不介于 4 到 20 个字符之间</string>
+    <string name="password_uppercase_missing">您的密码没有大写字母</string>
+    <string name="password_lowercase_missing">您的密码没有小写字母</string>
+    <string name="password_number_missing">您的密码没有数字</string>
+    <string name="password_specialchar_missing">您的密码没有特殊符号（#$%^&amp;*！@？）</string>
+    <string name="favouriteSnackbar1">带我到我的收藏夹页面</string>
+    <string name="favouriteSnackbar2">走吧</string>
+    <string name="FavProfile">我的最爱</string>
+
+    <string name="add_to_favourites_button">添加到收藏夹</string>
+    <string name="rmv_from_favourites">从收藏夹中删除</string>
+    <string name="grace_alert">在描述页面上，您可以看到您搜索的饮料的详细信息。您也可以从“我的收藏夹”中注册或删除此饮料</string>
+
+    <string name="my_Fav">我的最爱</string>
+    <string name="my_clear">清楚</string>
+    <string name="search_hint">键入一个单词</string>
+
+</resources>
+
+
+
+
+

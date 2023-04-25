@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="5dp"
+    app:cardBackgroundColor="#81C784"
+    app:cardCornerRadius="12dp"
+    app:cardElevation="3dp"
+    app:contentPadding="4dp"
+    android:foreground="?selectableItemBackground"
+    android:clickable="true">
+
+    <FrameLayout
+        android:id="@+id/frameLayout2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="16dp">
+
+        <ImageView
+            android:id="@+id/item_image2"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_gravity="start|top" />
+
+        <TextView
+            android:id="@+id/item_detail2"
+            android:layout_width="236dp"
+            android:layout_height="16dp"
+            android:layout_gravity="start|top"
+            android:layout_marginStart="110dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginEnd="10dp" />
+
+        <TextView
+            android:id="@+id/item_title2"
+            android:layout_width="236dp"
+            android:layout_height="39dp"
+            android:layout_gravity="start|bottom"
+            android:layout_marginStart="110dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginEnd="10dp"
+            android:textSize="30sp" />
+
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/frameLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp">
+
+        <ImageView
+            android:id="@+id/item_image1"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_gravity="start|top" />
+
+        <TextView
+            android:id="@+id/item_detail1"
+            android:layout_width="236dp"
+            android:layout_height="16dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginStart="110dp"
+            android:layout_marginEnd="10dp"
+            android:layout_gravity="start|top" />
+
+        <TextView
+            android:id="@+id/item_title1"
+            android:layout_width="236dp"
+            android:layout_height="39dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginStart="110dp"
+            android:layout_marginEnd="10dp"
+            android:textSize="30sp"
+            android:layout_gravity="start|bottom" />
+
+    </FrameLayout>
+
+</androidx.cardview.widget.CardView>
